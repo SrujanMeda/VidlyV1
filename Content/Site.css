@@ -18,3 +18,12 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.field-validation-error {
+    color: red;
+}
+
+Add commentMore actions
+.input-validation-error {
+    border: 2px solid red;
+}
